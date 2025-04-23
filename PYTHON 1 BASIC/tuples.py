@@ -13,13 +13,13 @@ tuple4 = ("LIST", "Tuple", [1,2,3,4],(4,3,2,1))
 print (tuple4)
 
 tuple5 = "LIST", "Tuple", [1,2,3,4],(4,3,2,1)
-print (tuple5)
+print (tuple5,end="\n\n")
 
 tuple6 = 9,"UTSAVMALOO",8,7,6,5,4,[3,2,1]
 print(tuple6)
 print(tuple6[2])
 print(tuple6[1][5])
-print(tuple6[7][2])
+print(tuple6[7][2],end="\n\n")
 
 
 #Slicing
