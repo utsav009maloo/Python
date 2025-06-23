@@ -7,7 +7,7 @@ print(my_set1)
 my_set1.update([88,99],{100,101,102})
 print(my_set1, end= "\n\n")
 
-#the main diffrence of discard and remove ids in discard if no. not available it not show error but in remove it show error (KEYERROR)
+#the main diffrence of discard and remove is in discard if no. not available it not show error but in remove it show error (KEYERROR)
 my_set1.discard(88)
 my_set1.remove(101)
 print(my_set1, end= "\n\n")
