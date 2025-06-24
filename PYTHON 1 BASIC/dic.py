@@ -4,7 +4,7 @@
 # from math import pi
 # print(pi)
 
-# Python DICTIONARY is thre unorder collection of items
+# Python DICTIONARY is the unorder collection of items
 
 new_dict = {1:"hello",2:"world",3:"UTSAV"}
 print(new_dict)

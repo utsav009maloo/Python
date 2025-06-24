@@ -1,5 +1,8 @@
 # a = 2
 # print(id(a))
+
+
+
 s = "GeeksforGeeks"
 
 # Initialize an empty string to hold reversed result
